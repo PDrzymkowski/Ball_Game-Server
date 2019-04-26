@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<highscores>
+    <Player>
+        <name>TEST5</name>
+        <lives>5</lives>
+        <time>10.0</time>
+    </Player>
+    <Player>
+        <name>TEST4</name>
+        <lives>5</lives>
+        <time>11.0</time>
+    </Player>
+    <Player>
+        <name>Tester</name>
+        <lives>5</lives>
+        <time>11.0</time>
+    </Player>
+    <Player>
+        <name>New Player</name>
+        <lives>5</lives>
+        <time>11.0</time>
+    </Player>
+    <Player>
+        <name>ddd</name>
+        <lives>5</lives>
+        <time>11.0</time>
+    </Player>
+    <Player>
+        <name>TEST1</name>
+        <lives>5</lives>
+        <time>12.0</time>
+    </Player>
+    <Player>
+        <name>TEST1</name>
+        <lives>5</lives>
+        <time>12.0</time>
+    </Player>
+    <Player>
+        <name>TEST1</name>
+        <lives>5</lives>
+        <time>12.0</time>
+    </Player>
+    <Player>
+        <name>TEST1</name>
+        <lives>5</lives>
+        <time>12.0</time>
+    </Player>
+    <Player>
+        <name>TEST1</name>
+        <lives>5</lives>
+        <time>12.0</time>
+    </Player>
+</highscores>

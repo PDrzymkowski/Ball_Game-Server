@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lvl1>
+
+<Ball>
+	<xPos>0.5</xPos>
+	<yPos>0.01</yPos>
+</Ball>
+
+
+<ObstaclesNumber>
+	<number>1</number>
+</ObstaclesNumber>
+
+
+<Obstacle>
+	<xPos>0.25</xPos>
+	<yPos>0.5</yPos>
+     <weidth>0.4</weidth>
+     <hight>0.1</hight>
+
+</Obstacle>
+
+
+<Finish>
+<xPos>0.5</xPos>
+<yPos>0.8</yPos>
+</Finish>
+<SuperPoint>
+<xPos>0.7</xPos>
+<yPos>0.2</yPos>
+</SuperPoint>
+
+</lvl1>

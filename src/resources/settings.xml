@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<frameWidth>1200</frameWidth>
+<frameHeight>800</frameHeight>
+<color>
+<r>20</r>
+<g>20</g>
+<b>20</b>
+
+</color>
+<color>
+<r>23</r>
+<g>29</g>
+<b>240</b>
+
+</color>
+
+<lvls>4</lvls>
+</settings>
